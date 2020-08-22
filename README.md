@@ -1,3 +1,3 @@
-#Hipster ipsum
+#HipsterIpsum
 
 Random text generator made with vanilla JS.
